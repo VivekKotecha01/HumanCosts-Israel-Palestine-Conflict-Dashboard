@@ -48,7 +48,7 @@ https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?section=ove
 ### Data Visualization (Dashboard)
 - Data visualization for the data analysis was done in Microsoft Power BI Desktop:
 - Shows visualizations from Israel Palestine Conflict:
-
+![Screenshot (3)](https://github.com/VivekKotecha01/HumanCosts-Israel-Palestine-Conflict-Dashboard/assets/140584372/e58cd603-cb98-4fe1-af69-34c82f749e2a)
 
 ### Insights
 
